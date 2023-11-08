@@ -13,3 +13,6 @@
 ### My Holopin badges from Hacktoberfest '22
 
 [![@shivangb237's Holopin board](https://holopin.me/shivangb237)](https://holopin.io/@shivangb237)
+
+### Typing speed 🔥⌨️
+![alt text](https://data.typeracer.com/misc/badge?user=shivangb237)
