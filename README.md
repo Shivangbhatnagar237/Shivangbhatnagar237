@@ -10,7 +10,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: https://www.linkedin.com/in/shivang-bhatnagar-3b2821178/
 
-### My Holopin badges from Hacktoberfest '22
+### My Holopin badges from Hacktoberfest 
 
 [![An image of @shivangb237's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivangb237)](https://holopin.io/@shivangb237)
 
