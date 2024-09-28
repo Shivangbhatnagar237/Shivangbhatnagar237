@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Web Development projects
 - 💬 Ask me about Web Development
-- 📫 How to reach me: https://www.linkedin.com/in/shivang-bhatnagar-3b2821178/
+- 📫 How to reach me: https://www.linkedin.com/in/shivangb237/
 
 ### My Holopin badges from Hacktoberfest 
 
