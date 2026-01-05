@@ -4,8 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a Full Stack Web Development project
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on a Full Stack Web Development project at Kfin Technologies Ltd.
+- 🌱 I’m currently learning System Design and Architecture
 - 👯 I’m looking to collaborate on Web Development projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: https://www.linkedin.com/in/shivangb237/
